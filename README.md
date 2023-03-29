@@ -1,4 +1,4 @@
-Computer Engineer, MBA (Software Engineering) student, Native Portuguese, Fluent English, Honorable mention Brazilian Mathematics Olympiad (CNPq - 2006), Scientific Project Researcher (CNPq - 2018), a Full-stack Engineer, with a strong business view, most focused in the frontend, with 3 years of experience, between big and small projects. 
+Computer Engineer, MBA (Software Engineering), Native Portuguese, Fluent English, Honorable mention Brazilian Mathematics Olympiad (CNPq - 2006), Scientific Project Researcher (CNPq - 2018)
 
 💻 Working as Frontend Engineer @ Mercedes-Benz.io
 
